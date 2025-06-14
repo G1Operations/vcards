@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Lontina Bradford
+N:Lontina Bradford;;;;
+item1.EMAIL;TYPE=INTERNET:lontina@genonclt.org
+item1.X-ABLabel:
+item2.TEL:704-710-6440
+item2.X-ABLabel:Voice
+item3.TEL:704-275-5319
+item3.X-ABLabel:Individual Text
+item4.TEL:704-851-1740
+item4.X-ABLabel:Middle School Program Text
+ORG:GenOne
+TITLE:Director of College and Career Readiness
+CATEGORIES:myContacts
+END:VCARD
